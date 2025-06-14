@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build outputs
+dist/
+build/
+coverage/
+.next/
+out/
+.vite/
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Editor/IDE config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/sqlserver/data/
+docker/sqlserver/.env
+
+# SQL Server Docker volumes or backup
+*.bak
+*.mdf
+*.ldf
+
+# Database scripts (opcional, si generas scripts temporales)
+databases/scripts/*.tmp.sql
+databases/scripts/tmp/
+
+# Misc
+*.local
+*.cache
+*.log
+*.pid
+*.seed
