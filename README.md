@@ -180,10 +180,7 @@ Manejo de errores centralizado en frontend y backend.
  Agregar pruebas unitarias básicas (Vitest o Jest).
 
 📬 Contacto
-Para dudas o mejoras, contacta con el equipo de desarrollo o abre un issue.
+Para dudas o mejoras, contacta con carlos.e.argoti@gmail.com.
 
 ```
----
 
-¿Quieres que sigamos con la estructura básica del backend (`Express + SQL Server`) o prefieres comenzar con el micro frontend (`user-listing-mf`)?
-```
